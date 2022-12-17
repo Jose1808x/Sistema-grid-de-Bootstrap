@@ -1,0 +1,38 @@
+*{
+    padding: 10px;
+    text-align: center;
+}
+.caja-padre{
+    width: 99%;
+    height: auto;
+}
+.caja-padre div{
+    display: flex;
+    padding: 20px;
+    font-size: 40px;
+    color: white;
+    border:none;
+    border-radius: 7px;
+    margin-bottom: 15px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.contenedor-1{
+    background-color: darkmagenta;
+}
+.contenedor-2{
+    background-color: dodgerblue;
+}
+.contenedor-3{
+    background-color: yellow;
+}
+.contenedor-4{
+    background-color: red;
+}
+.contenedor-5{
+    background-color: chartreuse;
+}
+.contenedor-6{
+    background-color: green;
+}
